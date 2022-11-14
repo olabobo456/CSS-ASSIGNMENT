@@ -1,0 +1,43 @@
+.head{
+    font-style: italic;
+    color: cornsilk;
+    font-weight: 300;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+body{
+   background-color: chocolate;
+}
+#bekind{
+    color: antiquewhite;
+    font-style: oblique;   
+    font-family: fantasy;
+}
+
+.likelist{
+    font-size: large;
+    font-weight: 200;
+    font-style: oblique;
+}
+
+#peaceofmind{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+     color: darkred;
+}
+
+#jeez{
+    font-style: oblique;
+    font-weight: 300;
+    font-family: 'Times New Roman', Times, serif;
+    color: black;
+}
+
+.dntlike{
+    font-family: fantasy;
+    font-weight: 400;
+    color: darkmagenta;
+}
+
+#omo{
+    color: aliceblue;
+}
